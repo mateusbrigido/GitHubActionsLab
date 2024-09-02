@@ -1,0 +1,7 @@
+name: GitHub Actions
+on: [push]
+jobs:
+  GitHub-Actions
+  runs-on: macos-latest
+  steps:
+    run: echo "Hello World"
