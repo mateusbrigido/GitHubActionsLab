@@ -1,7 +1,7 @@
-name: GitHub Actions
+name: Build and Test
 on: [push]
 jobs:
-  GitHub-Actions:
+  build-and-test:
     runs-on: macos-latest
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
