@@ -1,5 +1,5 @@
 name: GitHub Actions
-on: [push]
+on: workflow_dispatch
 jobs:
   GitHub-Actions
   runs-on: macos-latest
