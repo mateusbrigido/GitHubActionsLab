@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "33b3a0b13c9485915fe37960a9f80ce414fd078c015bba36debc7ae5c55fb3ee"
+build_start_time: [1725238730, 317596000]
+build_end_time: [1725238733, 709822000]
+inputs:
+  "/Users/mateusbrigido/Documents/GitHubActionsLab/GitHubActionsLab/ContentView.swift": [1725227674, 993024826]
+  "/Users/mateusbrigido/Documents/GitHubActionsLab/GitHubActionsLab/GitHubActionsLabApp.swift": [1725227674, 989270541]
+  ? "/Users/mateusbrigido/Documents/GitHubActionsLab/build/GitHubActionsLab.build/Release-iphoneos/GitHubActionsLab.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1725238729, 574647139]

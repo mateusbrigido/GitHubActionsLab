@@ -1,0 +1,25 @@
+{
+  "" : {
+    "const-values" : "/Users/mateusbrigido/Documents/GitHubActionsLab/build/GitHubActionsLab.build/Release-iphoneos/GitHubActionsLab.build/Objects-normal/arm64/GitHubActionsLab-master.swiftconstvalues",
+    "dependencies" : "/Users/mateusbrigido/Documents/GitHubActionsLab/build/GitHubActionsLab.build/Release-iphoneos/GitHubActionsLab.build/Objects-normal/arm64/GitHubActionsLab-master.d",
+    "diagnostics" : "/Users/mateusbrigido/Documents/GitHubActionsLab/build/GitHubActionsLab.build/Release-iphoneos/GitHubActionsLab.build/Objects-normal/arm64/GitHubActionsLab-master.dia",
+    "emit-module-dependencies" : "/Users/mateusbrigido/Documents/GitHubActionsLab/build/GitHubActionsLab.build/Release-iphoneos/GitHubActionsLab.build/Objects-normal/arm64/GitHubActionsLab-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mateusbrigido/Documents/GitHubActionsLab/build/GitHubActionsLab.build/Release-iphoneos/GitHubActionsLab.build/Objects-normal/arm64/GitHubActionsLab-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mateusbrigido/Documents/GitHubActionsLab/build/GitHubActionsLab.build/Release-iphoneos/GitHubActionsLab.build/Objects-normal/arm64/GitHubActionsLab-master.swiftdeps"
+  },
+  "/Users/mateusbrigido/Documents/GitHubActionsLab/build/GitHubActionsLab.build/Release-iphoneos/GitHubActionsLab.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/GitHubActionsLab.build/Release-iphoneos/GitHubActionsLab.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/mateusbrigido/Documents/GitHubActionsLab/build/GitHubActionsLab.build/Release-iphoneos/GitHubActionsLab.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/mateusbrigido/Documents/GitHubActionsLab/build/GitHubActionsLab.build/Release-iphoneos/GitHubActionsLab.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  },
+  "/Users/mateusbrigido/Documents/GitHubActionsLab/GitHubActionsLab/ContentView.swift" : {
+    "index-unit-output-path" : "/GitHubActionsLab.build/Release-iphoneos/GitHubActionsLab.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/mateusbrigido/Documents/GitHubActionsLab/build/GitHubActionsLab.build/Release-iphoneos/GitHubActionsLab.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/mateusbrigido/Documents/GitHubActionsLab/build/GitHubActionsLab.build/Release-iphoneos/GitHubActionsLab.build/Objects-normal/arm64/ContentView.o"
+  },
+  "/Users/mateusbrigido/Documents/GitHubActionsLab/GitHubActionsLab/GitHubActionsLabApp.swift" : {
+    "index-unit-output-path" : "/GitHubActionsLab.build/Release-iphoneos/GitHubActionsLab.build/Objects-normal/arm64/GitHubActionsLabApp.o",
+    "llvm-bc" : "/Users/mateusbrigido/Documents/GitHubActionsLab/build/GitHubActionsLab.build/Release-iphoneos/GitHubActionsLab.build/Objects-normal/arm64/GitHubActionsLabApp.bc",
+    "object" : "/Users/mateusbrigido/Documents/GitHubActionsLab/build/GitHubActionsLab.build/Release-iphoneos/GitHubActionsLab.build/Objects-normal/arm64/GitHubActionsLabApp.o"
+  }
+}

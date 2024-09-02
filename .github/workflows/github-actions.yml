@@ -8,4 +8,6 @@ jobs:
         run: xcodebuild -version
       - name: Check out repository code
         uses: actions/checkout@v4
+      - name: Run Tests
+        run: xcodebuild test -scheme GitHubActionsLab -allowProvisioningUpdates -destination 'platform=iOS Simulator,name=iPhone 15,OS=17.4'
       

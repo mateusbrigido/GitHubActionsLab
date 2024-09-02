@@ -1,0 +1,9 @@
+"/Users/mateusbrigido/Documents/GitHubActionsLab/GitHubActionsLab/ContentView.swift":
+  swiftdoc: "/Users/mateusbrigido/Documents/GitHubActionsLab/build/GitHubActionsLab.build/Release-iphoneos/GitHubActionsLab.build/Objects-normal/arm64/GitHubActionsLab.swiftdoc"
+  objc-header: "/Users/mateusbrigido/Documents/GitHubActionsLab/build/GitHubActionsLab.build/Release-iphoneos/GitHubActionsLab.build/Objects-normal/arm64/GitHubActionsLab-Swift.h"
+  dependencies: "/Users/mateusbrigido/Documents/GitHubActionsLab/build/GitHubActionsLab.build/Release-iphoneos/GitHubActionsLab.build/Objects-normal/arm64/GitHubActionsLab-master.d"
+  swiftmodule: "/Users/mateusbrigido/Documents/GitHubActionsLab/build/GitHubActionsLab.build/Release-iphoneos/GitHubActionsLab.build/Objects-normal/arm64/GitHubActionsLab.swiftmodule"
+  diagnostics: "/Users/mateusbrigido/Documents/GitHubActionsLab/build/GitHubActionsLab.build/Release-iphoneos/GitHubActionsLab.build/Objects-normal/arm64/GitHubActionsLab-master.dia"
+  swiftsourceinfo: "/Users/mateusbrigido/Documents/GitHubActionsLab/build/GitHubActionsLab.build/Release-iphoneos/GitHubActionsLab.build/Objects-normal/arm64/GitHubActionsLab.swiftsourceinfo"
+  abi-baseline-json: "/Users/mateusbrigido/Documents/GitHubActionsLab/build/GitHubActionsLab.build/Release-iphoneos/GitHubActionsLab.build/Objects-normal/arm64/GitHubActionsLab.abi.json"
+  const-values: "/Users/mateusbrigido/Documents/GitHubActionsLab/build/GitHubActionsLab.build/Release-iphoneos/GitHubActionsLab.build/Objects-normal/arm64/GitHubActionsLab-master.swiftconstvalues"
